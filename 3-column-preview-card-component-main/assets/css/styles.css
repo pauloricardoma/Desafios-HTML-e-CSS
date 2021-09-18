@@ -152,7 +152,7 @@ img{
 @media (max-width: 500px) {
     .main-content {
         padding: 0;
-        background-color: none;
+        background: none;
     }
 
     .back-one {

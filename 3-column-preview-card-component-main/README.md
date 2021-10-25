@@ -5,4 +5,4 @@
 
 # My solution
 
-![](./design/me-solution.png)
+![](./design/my-solution.jpg)

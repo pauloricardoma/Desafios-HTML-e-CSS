@@ -5,4 +5,4 @@
 
 # My solution
 
-(./design/readme.png)
+![](./design/readme.png)
